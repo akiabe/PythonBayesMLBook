@@ -1,2 +1,2 @@
-# PythonBayesML-Book
-講談社「Pythonではじめるベイズ機械学習入門」のJuliaコード
+# PythonBayesMLBook
+講談社「Pythonではじめるベイズ機械学習入門」の内容に沿ってベイズ機械学習についてJuliaでスクラッチとライブラリでトレースし、理論と実装を理解する。
