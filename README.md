@@ -2,8 +2,8 @@
 講談社「Pythonではじめるベイズ機械学習入門」の内容に沿ってベイズ機械学習についてJuliaででトレースし、理論と実装を理解する。
 
 #### 3章　回帰モデル
- - 線形単回帰モデル
- - 線形重回帰モデル
+ - [線形単回帰モデル](https://github.com/akiabe/PythonBayesMLBook/blob/main/src/3.1_線形回帰モデル.ipynb)
+ - [線形重回帰モデル](https://github.com/akiabe/PythonBayesMLBook/blob/main/src/3.1_線形回帰モデル.ipynb)
  - ポアソン回帰モデル
  - ロジスティック回帰モデル
  - 階層ベイズモデル
