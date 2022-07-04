@@ -5,7 +5,7 @@
  - [線形単回帰モデル](https://github.com/akiabe/PythonBayesMLBook/blob/main/src/3.1_線形回帰モデル.ipynb)
  - [線形重回帰モデル](https://github.com/akiabe/PythonBayesMLBook/blob/main/src/3.1_線形回帰モデル.ipynb)
  - [ポアソン回帰モデル](https://github.com/akiabe/PythonBayesMLBook/blob/main/src/3.3_ポアソン回帰モデル.ipynb)
- - ロジスティック回帰モデル
+ - [ロジスティック回帰モデル](https://github.com/akiabe/PythonBayesMLBook/blob/main/src/3.4_ロジスティック回帰モデル.ipynb)
  - 階層ベイズモデル
  - ガウス過程回帰モデル：ガウス尤度
  - ガウス過程回帰モデル：尤度の一般化
