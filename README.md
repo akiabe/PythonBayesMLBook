@@ -6,8 +6,8 @@
  - [線形重回帰モデル](https://github.com/akiabe/PythonBayesMLBook/blob/main/src/3.1_線形回帰モデル.ipynb)
  - [ポアソン回帰モデル](https://github.com/akiabe/PythonBayesMLBook/blob/main/src/3.3_ポアソン回帰モデル.ipynb)
  - [ロジスティック回帰モデル](https://github.com/akiabe/PythonBayesMLBook/blob/main/src/3.4_ロジスティック回帰モデル.ipynb)
- - 階層ベイズモデル
- - ガウス過程回帰モデル：ガウス尤度
+ - [階層ベイズモデル](https://github.com/akiabe/PythonBayesMLBook/blob/main/src/3.5_階層ベイズモデル.ipynb)
+ - [ガウス過程回帰モデル：ガウス尤度](https://github.com/akiabe/PythonBayesMLBook/blob/main/src/3.6_ガウス過程回帰モデル：ガウス尤度.ipynb)
  - ガウス過程回帰モデル：尤度の一般化
 #### 4章　潜在変数モデル
  - 混合ガウスもでる
