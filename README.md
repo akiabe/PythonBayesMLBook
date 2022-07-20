@@ -10,9 +10,11 @@
  - [ガウス過程回帰モデル：ガウス尤度](https://github.com/akiabe/PythonBayesMLBook/blob/main/src/3.6_ガウス過程回帰モデル：ガウス尤度.ipynb)
  - ガウス過程回帰モデル：尤度の一般化
 #### 4章　潜在変数モデル
- - 混合ガウスもでる
+ - [混合ガウスモデル](https://github.com/akiabe/PythonBayesMLBook/blob/main/src/4.1_混合ガウスモデル.jl)
+ - [主成分分析](https://github.com/akiabe/PythonBayesMLBook/blob/main/src/4.2_ベイジアン主成分分析.jl)
  - 行列分解モデル
- - 状態空間モデル
+ - ローカルレベルモデル
+ - 構造時系列モデル
  - 隠れマルコフモデル
  - トピックモデル
  - ガウス過程潜在変数モデル
