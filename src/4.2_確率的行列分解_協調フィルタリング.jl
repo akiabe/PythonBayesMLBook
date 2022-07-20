@@ -4,29 +4,17 @@
 using Markdown
 using InteractiveUtils
 
-# ╔═╡ 63f8df99-1999-4642-b6a0-3aca7c2b3456
-begin
-	using CSV
-	using DataFrames
-end
+# ╔═╡ bb4abc1a-6195-4939-a4ad-05a6620f8a8a
+using DataFrames
 
-# ╔═╡ d54079f6-e128-44b7-8808-1f30756a7947
+# ╔═╡ d8de1a4e-9ee2-4f6c-9bd5-b985f8c4a043
+using CSV
 
+# ╔═╡ f19d1f9e-92f5-4b82-ac5b-b2de2d00ac86
+_data = CSV.read("u.data", DataFrame, header=false, delim="\t")
 
-# ╔═╡ 7b99febb-07e0-42b0-956f-0fa91771e35c
-
-
-# ╔═╡ 6789e111-ee9c-49ac-887e-5f9417670a6d
-
-
-# ╔═╡ 139fb6f7-e939-46a9-a6b8-40158712aa05
-
-
-# ╔═╡ 0258ba95-af4e-4b6a-9faa-d8b1ab4aebf3
-
-
-# ╔═╡ 2d070a34-5eee-463a-ae84-3a93fc60aba8
-
+# ╔═╡ 63b58b1c-ecd6-42f1-ad89-6f450ee239e8
+convert(Array{Int64}, _data[:, 1:3])
 
 # ╔═╡ 00000000-0000-0000-0000-000000000001
 PLUTO_PROJECT_TOML_CONTENTS = """
@@ -350,12 +338,9 @@ uuid = "3f19e933-33d8-53b3-aaab-bd5110c3b7a0"
 """
 
 # ╔═╡ Cell order:
-# ╠═63f8df99-1999-4642-b6a0-3aca7c2b3456
-# ╠═d54079f6-e128-44b7-8808-1f30756a7947
-# ╠═7b99febb-07e0-42b0-956f-0fa91771e35c
-# ╠═6789e111-ee9c-49ac-887e-5f9417670a6d
-# ╠═139fb6f7-e939-46a9-a6b8-40158712aa05
-# ╠═0258ba95-af4e-4b6a-9faa-d8b1ab4aebf3
-# ╠═2d070a34-5eee-463a-ae84-3a93fc60aba8
+# ╠═bb4abc1a-6195-4939-a4ad-05a6620f8a8a
+# ╠═d8de1a4e-9ee2-4f6c-9bd5-b985f8c4a043
+# ╠═f19d1f9e-92f5-4b82-ac5b-b2de2d00ac86
+# ╠═63b58b1c-ecd6-42f1-ad89-6f450ee239e8
 # ╟─00000000-0000-0000-0000-000000000001
 # ╟─00000000-0000-0000-0000-000000000002
